@@ -2,7 +2,6 @@
 
 ## 🏷️ General Info
 - Name: George Vasiliadis
-- Age: 20 _(updated?)_
 - Hometown: Thessaloniki, Greece
 - Studying: Computer Science @ Aristotle Univerity of `$Hometown`
 
@@ -31,4 +30,3 @@
 
 ## ✔️ Todo
 - [ ] Bible Search Engine
-- [ ] 
