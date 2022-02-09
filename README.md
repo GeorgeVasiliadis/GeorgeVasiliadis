@@ -28,3 +28,7 @@
 ## 📂 Project Contributions
 - [agario](https://github.com/Viliami/agario)
 - [Confidant](https://github.com/emregeldegul/confidant)
+
+## ✔️ Todo
+- [ ] Bible Search Engine
+- [ ] 
