@@ -30,3 +30,4 @@
 
 ## ✔️ Todo
 - [ ] Bible Search Engine
+- [ ] Translate [SemVer](https://github.com/semver/semver)
