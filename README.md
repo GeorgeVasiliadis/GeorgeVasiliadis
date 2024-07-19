@@ -15,6 +15,7 @@
 
 ## 🔨 Programming Languages
 1. Python
+    - Django
     - Flask
     - FastAPI
     - Pandas
