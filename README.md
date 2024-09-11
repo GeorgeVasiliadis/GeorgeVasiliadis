@@ -13,13 +13,14 @@
 - Strumming my guitars
 - Playing `{tennis, volleyball}`
 
-## 🔨 Programming Languages
+## 🔨 Tool Belt
 1. Python
     - Django
     - Flask
     - FastAPI
     - Pandas
     - Numpy
+1. JavaScript/ TypeScript
 1. Java
 1. C
 1. Bash
