@@ -21,6 +21,9 @@
     - Pandas
     - Numpy
 1. JavaScript/ TypeScript
+    - Mongoose
+    - GraphQL
+    - Jest
 1. Java
 1. C
 1. Bash
@@ -31,5 +34,7 @@
 - [NILM-Inference-APIs](https://github.com/Virtsionis/NILM-Inference-APIs)
 
 ## 💻 github.io
+- [Fuel Cost Calculator](https://georgevasiliadis.github.io/FuelCostCalculator/)
+- [Inventory Report Helper](https://georgevasiliadis.github.io/InventoryReportHelper/)
 - [ELTA Search App](https://georgevasiliadis.github.io/ELTA-Search-App/)
 - [Cookbook](https://georgevasiliadis.github.io/Cookbook/)
